@@ -18,3 +18,5 @@ InterPoLe and the soft decision tree are written using the [Autograd](https://gi
 
 
 ### Synthetic Data Examples
+
+In this synthetic example we consider a toy optimal stopping problem of a doctor diagnosing some disease for which they have a not 100% accurate test. Their task then is to keep testing until they are confident enough to stop and declare a diagnosis of healthy or not.
